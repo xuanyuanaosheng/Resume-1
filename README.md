@@ -31,4 +31,4 @@ $ gulp
 
 MIT © [DIYgod](http://github.com/DIYgod)
 
-Thanks DYY
+Thanks DIYgod
